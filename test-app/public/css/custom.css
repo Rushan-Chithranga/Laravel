@@ -1,0 +1,21 @@
+body{
+ background-color:cadetblue;
+
+}
+a{
+ color: black;
+ font-weight: 600;
+ display: block;
+
+
+}
+/* .addbtn{
+    color: aqua;
+} */
+
+.table{
+    width: 100%! important;
+}
+.nav-pills li a:hover{
+    background-color: rgb(231, 171, 4);
+}
